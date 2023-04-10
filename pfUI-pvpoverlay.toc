@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffUI|cffaaaaaa cffbe5eff[PvP Overlay]
+## Author: Shagu, |cffbe5effLexie|r
+## Notes: PvP Overlay for pfUI unitframes
+## Version: 1.0
+## Dependencies: pfUI
+
+# main
+pfUI-pvpoverlay.lua
